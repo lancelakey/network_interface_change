@@ -1,0 +1,1 @@
+Purpose: Use Ruby and Net::SSH to spawn SSH sessions which perform commands on hosts. This script is currently designed to change the subnet mask in /etc/network/interfaces and a few other things
